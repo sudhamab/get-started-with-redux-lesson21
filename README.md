@@ -1,5 +1,5 @@
-# get-started-with-redux-lesson19
-This is based on the lessons from https://egghead.io/series/getting-started-with-redux, lesson 19,
+# get-started-with-redux-lesson21
+This is based on the lessons from https://egghead.io/series/getting-started-with-redux, lesson 21,
 so one can look at how the running code looks like. It will get more complicated with subsequent 
 lessons
 
